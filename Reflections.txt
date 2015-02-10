@@ -1,0 +1,3 @@
+I started training on git.
+I have been focusing on the bash interface.
+I think this could be helpful at work if I can save files in readable formats.

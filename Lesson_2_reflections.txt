@@ -1,0 +1,2 @@
+When you initialize a repository, a .git file is created which tracks the metadata for your repository.
+This will allow me to track revisions by committing changes.
