@@ -1,2 +1,3 @@
 When you initialize a repository, a .git file is created which tracks the metadata for your repository.
 This will allow me to track revisions by committing changes.
+The staging area is a type of limbo before changes get committed to the repository. The working directory always contains the latest files, unless a commit has been checked out.
