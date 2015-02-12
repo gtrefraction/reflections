@@ -7,3 +7,6 @@ Branches would be usefull for experiments and project specific deviations for to
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We added the differences from one branch to the other. I didn't see the diagram.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It is nice to have small features automatically added to a branch but it can lead to unexpected results if additions are conflicting.
