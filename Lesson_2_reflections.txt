@@ -2,3 +2,8 @@ When you initialize a repository, a .git file is created which tracks the metada
 This will allow me to track revisions by committing changes.
 The staging area is a type of limbo before changes get committed to the repository. The working directory always contains the latest files, unless a commit has been checked out.
 The staging area can be used to ensure one logical commit by using the git diff --staged command
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be usefull for experiments and project specific deviations for tools. Each project could create a branch then merge the universal features.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We added the differences from one branch to the other. I didn't see the diagram.
