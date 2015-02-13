@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Working collaboratively will be much easier with a remote repository. It also serves as a free backup.
