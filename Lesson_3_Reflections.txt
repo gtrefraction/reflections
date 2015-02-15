@@ -3,3 +3,4 @@ Working collaboratively will be much easier with a remote repository. It also se
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A fork is a github specific command, that performs a clone on github which references the original repo. Branches are different from clones in that they are extensions to the repo for trying differnt things.
+The remote is only included in the GIT status command if the -u upstream association is completed.
