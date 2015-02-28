@@ -7,3 +7,6 @@ The remote is only included in the GIT status command if the -u upstream associa
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare differences offline while developing new ideas.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I could meet up with friends. Email saved versions. It would be harder to find ways to merge differences, but you don't have to learn git syntax.
