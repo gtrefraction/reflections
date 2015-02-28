@@ -10,3 +10,7 @@ You can compare differences offline while developing new ideas.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I could meet up with friends. Email saved versions. It would be harder to find ways to merge differences, but you don't have to learn git syntax.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You should use a separate branch when an idea might not benefit all users, you are concerned about 
+funtionality being impared, or when you want different versions of something.
