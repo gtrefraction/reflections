@@ -1,2 +1,12 @@
 Why is it important to stay active on GitHub and in the tech community?
 This will help you build a habit of learning, a history of commitment, and keep skills sharp.
+
+I am trying to build an understanding of the Full Stack development process:
+I think this means I need to understand front end graphic design, mid-level logic engine, and backend database services.
+
+I have been taking Udacity and MongoDB courses which have mostly been focused on Javascript and JSON databases.
+
+I find a cool note taking add-on for Google Chrome called sidenote which I connected to my dropbox for storage.
+
+I am taking a 7 week MongoDBUniversity course that should help build a programming habit. Oddly enough
+I am hoping that keeping something like this open reflection or the blog I am making will help also.
